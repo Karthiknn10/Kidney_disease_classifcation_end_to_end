@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: CNN-Classifier
+Version: 0.0.1
+Summary: A small python package for CNN app
+Home-page: https://github.com/Karthiknn10/Kidney_disease_classifcation_end_to_end
+Author: Karthiknn10
+Author-email: karthiknn10@gmail.com
+Project-URL: Bug Tracker, https://github.com/Karthiknn10/Kidney_disease_classifcation_end_to_end/issues
