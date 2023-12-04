@@ -1,1 +1,3 @@
 cnn_venv/**
+**/__pycache/**
+**.pyc
