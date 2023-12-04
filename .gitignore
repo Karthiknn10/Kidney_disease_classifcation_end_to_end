@@ -1,3 +1,6 @@
 cnn_venv/**
 **/__pycache/**
 **.pyc
+artifacts/**
+**.zip
+logs/**
