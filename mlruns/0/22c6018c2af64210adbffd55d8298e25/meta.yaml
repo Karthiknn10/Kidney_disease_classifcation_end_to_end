@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Studies/Kidney_disease%20end%20to%20end%20project/mlruns/0/22c6018c2af64210adbffd55d8298e25/artifacts
+end_time: 1701880590184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22c6018c2af64210adbffd55d8298e25
+run_name: gaudy-hare-571
+run_uuid: 22c6018c2af64210adbffd55d8298e25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701880576187
+status: 3
+tags: []
+user_id: Karthik

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Studies/Kidney_disease%20end%20to%20end%20project/mlruns/0/1959994b93a84beb93f76106b0be9b52/artifacts
+end_time: 1701878760194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1959994b93a84beb93f76106b0be9b52
+run_name: upbeat-bird-146
+run_uuid: 1959994b93a84beb93f76106b0be9b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701878741261
+status: 3
+tags: []
+user_id: Karthik

@@ -1,4 +1,5 @@
 import tensorflow as tf
+from tensorflow.keras import mixed_precision
 from CNN_Classifier.config.configuration import ConfigurationManager
 from CNN_Classifier.components.prepare_base_model import PrepareBaseModel
 from CNN_Classifier import logger
@@ -13,6 +14,8 @@ class PrepareBaseModelTrainingPipeline:
         for gpu in gpus: 
             tf.config.experimental.set_memory_growth(gpu, True)
         logger.info(f"GPU for training: {tf.config.list_physical_devices('GPU')}")
+        mixed_precision.set_global_policy(policy="mixed_float16")
+
 
     def main(self):
         config = ConfigurationManager()

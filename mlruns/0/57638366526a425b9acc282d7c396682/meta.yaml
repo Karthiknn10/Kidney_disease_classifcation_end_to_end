@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Studies/Kidney_disease%20end%20to%20end%20project/mlruns/0/57638366526a425b9acc282d7c396682/artifacts
+end_time: 1701878155526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57638366526a425b9acc282d7c396682
+run_name: intelligent-slug-798
+run_uuid: 57638366526a425b9acc282d7c396682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701878132768
+status: 3
+tags: []
+user_id: Karthik
