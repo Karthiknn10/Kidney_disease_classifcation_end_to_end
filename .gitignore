@@ -5,3 +5,5 @@ artifacts/**
 **.zip
 logs/**
 research/04_model_evaluation.ipynb
+**.jpg
+mlruns/**
